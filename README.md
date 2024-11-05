@@ -63,3 +63,5 @@ To run this project locally:
 4. Import the dashboard file (if applicable) to view the visualizations.
 
 Thank you for your interest in the Electric Vehicle Dashboard project! We hope you find it valuable in understanding the dynamics of the electric vehicle market.
+
+![image](https://github.com/user-attachments/assets/b979f925-a167-4d10-bfd6-891c6f372925)
